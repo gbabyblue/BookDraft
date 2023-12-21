@@ -11,12 +11,14 @@ body {
   max-width: 1000px;
   margin: 20px;
   justify-content: center;
+  background-color: transparent;
 }
 
 h1 {
   font-size: 50px;
   text-align: center;
   font-family: 'Cinzel Decorative'
+  background-color: transparent;
 }
 
 h2 {
@@ -24,8 +26,10 @@ h2 {
   text-align: center;
   font-style: italic;
   text-decoration: underline;
+  background-color: transparent;
 }
 
 p {
   font-size: 30px;
+  background-color: transparent;
 }
